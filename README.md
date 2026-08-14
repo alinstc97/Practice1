@@ -1,1 +1,1 @@
-asd
+text nou in Readme
